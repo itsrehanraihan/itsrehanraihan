@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rehan Raihan
 #### A Frontend Developer
-![A Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A Frontend Developer]
 
 I am Front-End Web Developer. It's been 2 years, I’m working as web developer. I have developed many website and also provided my services to college students by getting their projects ready ASAP as a freelancer I have been part of some very good web design projects.  I am doing my graduation in Computer Science. I'm also learning Back-End Development and looking forward to be a Full Stack Web Developer.
 
